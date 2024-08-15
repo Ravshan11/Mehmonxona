@@ -1,0 +1,26 @@
+.aa
+{
+    margin-left: 30%;
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+
+}
+textarea
+{
+   margin-left: 30%;
+    height: 300px;
+    width: 600px;
+    background-color: yellow
+}
+body
+{
+    background-image: url(https://images.wallpapersden.com/image/download/cyberpunk-2077-yellow-background_bGpqbmqUmZqaraWkpJRqZmdlrWdtbWU.jpg);
+    width: 100%;
+
+}
+input
+{
+    margin-left: 70%;
+    width: 70px;
+}

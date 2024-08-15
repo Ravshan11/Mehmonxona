@@ -1,0 +1,24 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image: url(https://images.wallpapersden.com/image/download/cyberpunk-2077-yellow-background_bGpqbmqUmZqaraWkpJRqZmdlrWdtbWU.jpg);
+    width: 100%;
+
+}
+.vb
+{
+    color: rgba(6, 6, 248, 0.342);
+
+}
+.es
+{
+    padding-top: 7%;
+}
+.rav
+{
+    list-style: none;
+}
